@@ -14,8 +14,8 @@ A collection of PySpark notebooks created in Databricks to practise data transfo
 
 ## Goal
 This repository is part of my learning and portfolio development in data engineering.
-``
-📊 Bronze Baby Names Transformation Notebook
+
+### Bronze Baby Names Transformation Notebook
 This notebook demonstrates core PySpark concepts using a Bronze layer dataset:
 
 🔹 Transformations
