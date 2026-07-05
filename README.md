@@ -37,3 +37,17 @@ source_file (string)
 Understand Spark execution model
 Practice ETL transformation steps
 Demonstrate Bronze → Silver pipeline concepts
+
+### Banking Data Pipeline (CSV → Bronze → Silver → Gold)
+This project demonstrates an end-to-end data engineering pipeline using Databricks, implementing the Medallion Architecture (Bronze, Silver, Gold).
+
+
+🔹Data ingestion from CSV files (Unity Catalog volumes)
+
+🔹Data transformation using PySpark
+
+🔹JOIN operations across multiple datasets
+
+🔹Data modelling and relational integration
+
+🔹Aggregations for business-ready insights
